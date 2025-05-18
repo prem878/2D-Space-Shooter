@@ -1,6 +1,6 @@
 # 2D Space Shooter
 
-A simple 2D space shooter game developed in C/C++.
+A simple 2D space shooter game developed in C inside main function only.
 
 ## 🚀 How to Clone and Run (Windows Only)
 
